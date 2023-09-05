@@ -1,0 +1,15 @@
+total 52
+drwxrwxr-x 2 drmhz174 drmhz174 4096 سبت  5 05:18 .
+drwxrwxr-x 6 drmhz174 drmhz174 4096 سبت  5 03:48 ..
+-rwxrwxr-x 1 drmhz174 drmhz174   32 سبت  5 04:11 0-hello_world
+-rwxrwxr-x 1 drmhz174 drmhz174   28 سبت  5 04:25 1-confused_smiley
+-rwxrwxr-x 1 drmhz174 drmhz174   28 سبت  5 04:30 2-hellofile
+-rwxrwxr-x 1 drmhz174 drmhz174   37 سبت  5 04:34 3-twofiles
+-rwxrwxr-x 1 drmhz174 drmhz174   35 سبت  5 04:39 4-lastlines
+-rwxrwxr-x 1 drmhz174 drmhz174   35 سبت  5 04:51 5-firstlines
+-rwxrwxr-x 1 drmhz174 drmhz174   47 سبت  5 04:58 6-third_line
+-rwxrwxr-x 1 drmhz174 drmhz174   78 سبت  5 05:11 7-file
+-rwxrwxr-x 1 drmhz174 drmhz174   36 سبت  5 05:18 8-cwd_state
+-rw-rw-r-- 1 drmhz174 drmhz174   12 سبت  5 05:11 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 drmhz174 drmhz174    0 سبت  5 05:18 ls_cwd_content
+-rw-rw-r-- 1 drmhz174 drmhz174   13 سبت  5 03:49 README.md
